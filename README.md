@@ -5,7 +5,16 @@
 This is Lab-03 CS-G
 <br/>
 We studied Github
+
 <br/>
-**My name is Shaheer in Bold**
+**My name is Shaheer in Bold** <br/>
+_My name is Shaheer in Italic_ <br/>
+
 <br/>
-_My name is Shaheer in Italic_
+- Unordered List <br/>
+- C++ <br/>
+- Python <br/>
+<br/>
+1. Ordered List<br/>
+2. Java<br/>
+3. Ruby
