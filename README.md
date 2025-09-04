@@ -3,5 +3,9 @@
 ### heading 3
 
 This is Lab-03 CS-G
-</br>
+<br/>
 We studied Github
+<br/>
+**My name is Shaheer in Bold**
+<br/>
+_My name is Shaheer in Italic_
